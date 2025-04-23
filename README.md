@@ -4,7 +4,7 @@
 
 ### 👨‍💻 _Linguagens e Tecnologias:_
 <div style="display: inline-block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
+  
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C">
 </div>
